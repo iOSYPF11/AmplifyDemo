@@ -36,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/iOSYPF11/AmplifyDemo.git",
+  "author": "杨朋飞 <pengfei.yang@maxim-group.com>",
+  "license": "MIT"
 }
