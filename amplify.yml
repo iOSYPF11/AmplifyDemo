@@ -12,9 +12,9 @@ frontend:
         - yarn install
     build:
       commands:
-        - yarn run build
+        - yarn run test
   artifacts:
-    baseDirectory: build
+    baseDirectory: test
     files:
       - '**/*'
   cache:
