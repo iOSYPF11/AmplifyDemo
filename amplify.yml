@@ -12,7 +12,7 @@ frontend:
         - yarn install
     build:
       commands:
-        - yarn start
+        - yarn run start
   artifacts:
     baseDirectory: start
     files:
